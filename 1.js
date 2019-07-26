@@ -281,6 +281,6 @@ client.on('message', message => {
 });
 
 
-bot_secret_token = "NjAwMDE0Njc5OTQ2ODIxNjMy.XS9hnw.wbAGll2DCLRyeJnpmja4jSMuC_g"
+bot_secret_token = ""
                                                                                                                                            //token
 client.login(bot_secret_token)
